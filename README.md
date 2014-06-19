@@ -1,11 +1,11 @@
-linked-jazz-network
+Linked Jazz Network
 ===================
 
-The source for linkedjazz.org/network
+The source for [linkedjazz.org/network](http://www.linkedjazz.org/network)
 
 
 This is a d3.js network visualization powered by linked data. 
-The data directory contains the triple files that populate the graph via RDF plugin for jquery. 
+The data directory contains the triple files that populate the graph via RDF plugin for jquery. No database is required.
 
 
 
